@@ -12,7 +12,7 @@ By contributing to BanglaSTT, you're helping make speech recognition technology 
 
 ```bash
 # Fork the repository on GitHub, then clone your fork
-git clone https://github.com/YOUR_USERNAME/banglastt.git
+git clone https://github.com/Ratul345/BanglaSTT.git
 cd banglastt
 ```
 
@@ -44,7 +44,7 @@ pip install pytest black flake8
 Found a bug? Help us fix it!
 
 **How to report:**
-1. Check if the bug already exists in [Issues](https://github.com/your-repo/issues)
+1. Check if the bug already exists in [Issues](https://github.com/Ratul345/BanglaSTT/issues)
 2. Create a new issue with the bug report template
 3. Include:
    - Steps to reproduce

@@ -182,7 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: Create an issue on GitHub
+- 🐛 **Bug Reports**: Create an issue on [GitHub](https://github.com/Ratul345/BanglaSTT)
 - 💡 **Feature Requests**: Open a discussion
 - ❓ **Questions**: Check the FAQ below
 
