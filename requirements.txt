@@ -1,0 +1,18 @@
+# BanglaSTT - Bangla Speech-to-Text Transcription Tool
+# Requirements for Windows, macOS, and Linux
+
+# Core dependency for speech recognition
+openai-whisper>=20231117
+
+# Windows-specific dependencies for FFmpeg support
+imageio-ffmpeg>=0.6.0; sys_platform == "win32"
+
+# Optional dependencies for better performance
+numpy>=1.21.0
+torch>=1.13.0
+torchaudio>=0.13.0
+
+# Development dependencies (uncomment if needed)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
